@@ -1,0 +1,7 @@
+{
+  "name": "Complete Learning Management System with In-App Quiz, Payments & Certificates",
+  "description": "A comprehensive NLP certification platform featuring guided learning paths, in-app quizzes, integrated payment flows, and automated certification with QR verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
